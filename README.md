@@ -2,13 +2,12 @@
 
 # WebKnot Assignment
 
-Demo Video: https://www.youtube.com/watch?v=NG9kf2A-0HU
 
 ## Setup Instructions
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/AshishDayal7/Webknot_Assignment.git
+   git clone https://github.com/suprithabs26/Event_management.git
    cd Webknot
    ```
 
