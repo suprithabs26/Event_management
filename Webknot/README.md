@@ -7,7 +7,7 @@
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/AshishDayal7/Webknot_Assignement.git
+   git clone https://github.com/suprithabs26/Event_management.git
    
    ```
 
@@ -44,6 +44,4 @@ After starting the server, you can access the application at `http://127.0.0.1:8
 
 Feel free to submit issues or pull requests for improvements and bug fixes.
 
-## License
 
-This project is licensed under the MIT License.
